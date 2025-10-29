@@ -1,0 +1,15 @@
+# KiCad project ignores
+*-backups/
+*-autosave/
+*.bak
+*.tmp
+*.net
+*.xml
+*.dsn
+*.ses
+*.zip
+*.tar.gz
+
+# OS-related
+.DS_Store
+Thumbs.db
